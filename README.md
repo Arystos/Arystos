@@ -1,5 +1,6 @@
-<!-- ============ HEADER BANNER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Aristide%20Sessa&fontColor=ffffff&fontSize=42&desc=Gameplay%20%26%20Engine%20Programmer&descAlignY=64&descSize=18" width="100%"/>
+<!-- ============ HEADER ============ -->
+<h1 align="center">Aristide Sessa</h1>
+<h3 align="center">🎮 Gameplay &amp; Engine Programmer</h3>
 
 <!-- ============ ANIMATED SUBTITLE ============ -->
 <p align="center">
@@ -76,5 +77,4 @@
 
 🌐 **[aristidesessa.com](https://www.aristidesessa.com)** — full portfolio, case studies and contact
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something&fontColor=ffffff&fontSize=18&fontAlignY=70" width="100%"/>
-
+<p align="center"><i>Let's build something 🚀</i></p>
