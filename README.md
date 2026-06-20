@@ -77,3 +77,4 @@
 🌐 **[aristidesessa.com](https://www.aristidesessa.com)** — full portfolio, case studies and contact
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something&fontColor=ffffff&fontSize=18&fontAlignY=70" width="100%"/>
+
