@@ -9,7 +9,7 @@ on:
   # Re-generate on every push to the default branch
   push:
     branches:
-      - master
+      - main
 
 permissions:
   contents: write
