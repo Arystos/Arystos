@@ -59,11 +59,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arystos&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arystos&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arystos&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arystos&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak"/>
 </p>
 
 <!-- ============ CONTRIBUTION SNAKE ============ -->
