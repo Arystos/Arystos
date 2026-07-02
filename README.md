@@ -13,17 +13,17 @@
 <p align="center">
   <a href="https://www.aristidesessa.com"><img src="https://img.shields.io/badge/Portfolio-aristidesessa.com-1f6feb?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/aristide-sessa-4043a1219"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Italy-open%20to%20relocation%20%26%20remote-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Poland-open%20to%20relocation%20%26%20remote-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 <!-- ============ ABOUT ============ -->
 ## 👋 About me
 
-**Gameplay & engine programmer** — I build games and real-time systems in **C++**, **Unreal Engine** and **OpenGL**.
+**Gameplay & engine programmer** - I build games and real-time systems in **C++**, **Unreal Engine** and **OpenGL**.
 
 - 🎮 Focused on gameplay & engine programming, low-level C++ and real-time graphics
-- 🧰 I like working close to the metal — custom renderers, shaders, physics and game architecture
-- 📍 Based in Italy · open to relocation & remote — **gaming first, engineering welcome**
+- 🧰 I like working close to the metal - custom renderers, shaders, physics and game architecture
+- 📍 Based in Italy · open to relocation & remote - **gaming first, engineering welcome**
 - 💬 Ask me about C++, Unreal Engine, rendering and game architecture
 - 🌐 Full portfolio, case studies & contact → **[aristidesessa.com](https://www.aristidesessa.com)**
 
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/Arystos/Breakout-Arkanoid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arystos&repo=Breakout-Arkanoid&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Breakout-Arkanoid"/></a>
-  <a href="https://github.com/Arystos/ClickingButton"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arystos&repo=ClickingButton&theme=github_dark&hide_border=true&bg_color=0d1117" alt="ClickingButton — UE5 N-body sim"/></a>
+  <a href="https://github.com/Arystos/ClickingButton"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arystos&repo=ClickingButton&theme=github_dark&hide_border=true&bg_color=0d1117" alt="ClickingButton - UE5 N-body sim"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/Arystos/Advanced-Outline-Shader-UE5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arystos&repo=Advanced-Outline-Shader-UE5&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Advanced Outline Shader UE5"/></a>
@@ -53,7 +53,7 @@
   <a href="https://github.com/Arystos/CMD-Snake-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arystos&repo=CMD-Snake-Game&theme=github_dark&hide_border=true&bg_color=0d1117" alt="CMD Snake Game"/></a>
 </p>
 
-> 🔒 Some of my most recent work (e.g. **Kariana**, **Samla**) is under NDA — happy to walk through it in an interview.
+> 🔒 Some of my most recent work (e.g. **Kariana**, **Samla**) is under NDA - happy to walk through it in an interview.
 
 <!-- ============ GITHUB STATS ============ -->
 ## 📊 Stats
@@ -72,6 +72,6 @@
 <!-- ============ FOOTER ============ -->
 ## 📫 Get in touch
 
-🌐 **[aristidesessa.com](https://www.aristidesessa.com)** — full portfolio, case studies and contact
+🌐 **[aristidesessa.com](https://www.aristidesessa.com)** - full portfolio, case studies and contact
 
 <p align="center"><i>Let's build something 🚀</i></p>
